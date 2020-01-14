@@ -16,7 +16,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
+<repositories>
 <repository>
   <id>pipelines-java-artifacts</id>
   <url>https://pkgs.dev.azure.com/sushantrathor/pipelines-java/_packaging/pipelines-java-artifacts/maven/v1</url>
@@ -27,7 +27,7 @@
     <enabled>true</enabled>
   </snapshots>
 </repository>
-
+</repositories>
   <build>
     <finalName>helloworld</finalName>
     <plugins>
