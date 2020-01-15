@@ -31,4 +31,4 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 
-just a trigger
+just a trigger, copied
